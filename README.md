@@ -18,8 +18,8 @@ __В планах:__ <br>
 7. Добавить личный кабинет и авторизацию
 8. API
 
-__Сайт:__ svojest.github.io/vue-todo-list
-
+__Сайт:__ 
+[svojest.github.io/vue-todo-list](https://svojest.github.io/vue-todo-list/)
 
 ---
 ## Project setup
